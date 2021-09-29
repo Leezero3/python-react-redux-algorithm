@@ -18,6 +18,7 @@ const Navigation = () => {
                 <NaviItem><Link to='/linear'style={{textDecorationLine:'none',color:'black'}}><strong>Linear</strong></Link></NaviItem>
                 <NaviItem><Link to='/mathematics'style={{textDecorationLine:'none',color:'black'}}><strong>Mathematics</strong></Link></NaviItem>
                 <NaviItem><Link to='/nonlinear'style={{textDecorationLine:'none',color:'black'}}><strong>Nonlinear</strong></Link></NaviItem>
+                <NaviItem><Link to='/SignUp'style={{textDecorationLine:'none',color:'black'}}><strong>Sign Up</strong></Link></NaviItem>
         </NaviList>
     </NaviDiv> 
     </>)

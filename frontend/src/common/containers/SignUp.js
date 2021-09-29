@@ -1,15 +1,15 @@
 import React from "react";
 import styled from 'styled-components';
 
-import { TodoInput } from "common";
-import { TodoList } from "common";
+import { UserJoin } from "common";
+import { UserList } from "common";
 
 export default function Todo(){
 
     return(<>
         <CounterDiv>
-        <TodoInput/>
-        <TodoList/>
+        <UserJoin/>
+        <UserList/>
         </CounterDiv>
     </>)
 }
